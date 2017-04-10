@@ -1,4 +1,4 @@
-|Group Name|Owner|Location|WebsiteURL|Twitter|Email|
+/|Group Name|Owner|Location|WebsiteURL|Twitter|Email|
 |----------|-----|--------|----------|-------|-----|
 |Metro Detroit PowerShell User Group|Will Anderson|Southfield, Michigan, USA|https://www.meetup.com/Metro-Detroit-PowerShell-Users-Group/ | N/A | N/A |
 |Arizona PowerShell User Group|Thom Schumacher|Phoenix, Arizona, USA| https://azpowershell.wordpress.com/ | @Azpowershell, #azpowershell | Azpug@outlook.com |
@@ -13,3 +13,4 @@
 |Louisville|Joshua Taylor|"Louisville, Kentucky, USA"||@louposh|contact@louposh.org|
 |Virtual|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Romania|Sorin Pasa|"Bucharest, Romania"|https://www.meetup.com/Romanian-PowerShell-User-Group/|@ROMANIAPUG|romaniapug@yahoo.com|
+|St. Louis|Michael Lombardi|"St. Louis, Missouri, USA"|https://www.meetup.com/STLPSUG|stl.psug@outlook.com|
